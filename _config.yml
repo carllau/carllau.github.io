@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: carllau
-subtitle: 发掘思想之根基
-description: 发掘思想之根基
-author: carllau
+title: NexT
+subtitle:
+description:
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -117,8 +117,8 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories/
-  about: /about/
+  #categories: /categories/
+  #about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -192,8 +192,8 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: Lobster Two
-    size: 30
+    family:
+    size:
 
   # Font settings for <code> and code blocks.
   codes:
@@ -255,8 +255,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  #position: left
-  position: right
+  position: left
+  #position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -595,10 +595,10 @@ pace: false
 pace_theme: pace-theme-minimal
 
 # Canvas-nest
-canvas_nest: true
- 
+canvas_nest: false
+
 # three_waves
-three_waves: true
+three_waves: false
 
 # canvas_lines
 canvas_lines: false
@@ -700,10 +700,3 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
-
----
-title: 标签测试文章
-tags:
-  - Testing
-  - Another Tag
----
