@@ -1,13 +1,13 @@
-# ---------------------------------------------------------------
+﻿# ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
 # Site
-title:  carllau
-tagline: 发掘思想之根基
-subtitle: 发掘思想之根基
-description: 发掘思想之根基
+title:  发掘思想之根基
+tagline: carllau的博客
+subtitle: carllau的博客
+description: 学习学习
 author:  carllau
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language:  zh-Hans
