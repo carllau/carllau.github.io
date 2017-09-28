@@ -1,4 +1,16 @@
 ﻿---
+title: 【转载】如何正确地练习写作
+date: 2017-9-20 
+categories:
+- Foo
+- Bar
+- Baz
+tags
+
+---
+
+
+---
 layout: post
 title: 【转载】如何正确地练习写作
 date: 2015-3-02
