@@ -2,7 +2,7 @@
 title: 建筑人生
 date: 2017-10-22 23:42:50
 categories:
-- 写作
+- 随笔
 tags:
 - 工作
 ---
